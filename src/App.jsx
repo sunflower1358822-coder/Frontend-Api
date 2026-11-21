@@ -57,7 +57,7 @@ import { useState, useEffect } from "react";
   return (
     <div className="ml-20">
       <div className="mt-9 ml-20 font-bold">
-        <h1>Task API CRUD</h1>
+        <h1>Frontend API Lessons</h1>
       </div>
       <div className="m-7">
         <form onSubmit={handelSubmit}>
