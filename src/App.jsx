@@ -49,7 +49,7 @@ import { useState, useEffect } from "react";
   if (loading) {
     return (
       <div className="message">
-        <h2>Loading user...</h2>
+        <h2>Loading user Data...</h2>
       </div>
     );
   }
