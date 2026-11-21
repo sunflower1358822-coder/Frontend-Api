@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.btn{
+  border: 2px;
+  width: 20px;
+}
